@@ -1,4 +1,4 @@
 # Music Recommendation from Emotion Detection
 
-A Python app that detects emotions from a webcam feed using a trained model and recommends songs based on the detected emotion.
+A Python app that detects emotions and recommends songs based on the detected emotion from the given dataset according to the mood.
 
